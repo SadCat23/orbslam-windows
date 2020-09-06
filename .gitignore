@@ -22,4 +22,4 @@ build/
 *~
 lib/
 Thirdparty/openCV/opencv/build
-
+Examples/Monocular/euroc/
