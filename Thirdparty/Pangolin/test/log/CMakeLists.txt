@@ -7,4 +7,4 @@ append_glob(LOG_SOURCES ../../src/log/*.cpp)
 append_glob(LOG_SOURCES ../../src/utils/*.cpp)
 
 add_executable(testlog testlog.cpp ${LOG_SOURCES})
-target_link_libraries(testlog pthread)
+#target_link_libraries(testlog pthread)

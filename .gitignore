@@ -23,3 +23,5 @@ build/
 lib/
 Thirdparty/openCV/opencv/build
 Examples/Monocular/euroc/
+Examples/Monocular/Release/opencv_world430d.dll 
+Examples/Monocular/ORBvoc.txt
